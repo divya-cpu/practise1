@@ -11,3 +11,7 @@ delta: changes/difference between two branches
 
 
 git pull = git fetch + git merge
+
+git log : shows all commit ids and what is the current commit id of the local and remote
+
+git diff: difference between local and remote
