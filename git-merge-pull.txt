@@ -1,0 +1,13 @@
+git pull command:
+
+used for existing repo and to merge remote and local
+
+
+git fetch : compare two branches
+
+git merge: merge changes from one branch to another branch
+
+delta: changes/difference between two branches
+
+
+git pull = git fetch + git merge
