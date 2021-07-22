@@ -19,6 +19,13 @@ git diff: difference between local and remote
 
 CI/CD: Continous Integration  Continous Delivery
 
+feature/
+bugs/
+
+
+
+main :
+
 
 Continous Integration: whenever a commit happens to a repository , the build process has to happen automatically.
 
@@ -30,6 +37,11 @@ unit test : through code you can execute some test cases
 
 It generates artifacts ..
 
+
+.yaml
+.yml
+
+
 .jar
 
 
@@ -37,3 +49,13 @@ Continous Delivery : copy the artifacts and place it to the target server
 
 
 www.somewebsite.com
+
+
+Azure Subscription :
+
+Azure DevOps Account:
+
+
+Frontend application: this is accessible to the end user or customer
+
+Backend application: json ,text file data
