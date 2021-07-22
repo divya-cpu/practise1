@@ -15,3 +15,25 @@ git pull = git fetch + git merge
 git log : shows all commit ids and what is the current commit id of the local and remote
 
 git diff: difference between local and remote
+
+
+CI/CD: Continous Integration  Continous Delivery
+
+
+Continous Integration: whenever a commit happens to a repository , the build process has to happen automatically.
+
+Commit : triggers build integration
+
+Build the code: compile , check for dependencies , and additional things
+Code quality : standard process of verifying code quality
+unit test : through code you can execute some test cases
+
+It generates artifacts ..
+
+.jar
+
+
+Continous Delivery : copy the artifacts and place it to the target server
+
+
+www.somewebsite.com
