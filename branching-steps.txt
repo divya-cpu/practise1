@@ -1,0 +1,7 @@
+git checkout -b branchname
+go into that
+code .
+save it
+git add
+git commit
+git push origin branchname
