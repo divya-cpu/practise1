@@ -1,0 +1,43 @@
+Azure Portal: https://portal.azure.com/
+
+Create an account by giving email id and mobile number
+Credit card information
+
+Booting
+
+drivers
+
+firmware
+
+Operating System:
+
+Unix
+Windows
+Linux
+MacOS
+
+Virtual Machine :
+
+from one windows system to connect to another windows system, you can use mstsc
+
+
+if you want connect , SSH
+
+Server:
+
+web server
+database Server
+
+
+Steps:
+Build
+test
+
+
+yaml:
+
+https://www.youtube.com/watch?v=1uFVr15xDGg
+
+
+Azure pipelines:
+https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops
